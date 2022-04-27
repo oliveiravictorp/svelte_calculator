@@ -2,6 +2,10 @@
 
 Calculator web app.
 
+## Dependencies
+
+  * Node and npm
+
 ## Start
 
   * Install dependencies with `npm install`
